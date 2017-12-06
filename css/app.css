@@ -50,7 +50,7 @@ h2 {
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
-
+		
 #london {
     background-color: #4dd0e1;
 }
@@ -65,4 +65,8 @@ h2 {
 
 #paris {
     background-color: #444eee;
+}
+
+#lyon {
+    background-color: #f50eee;
 }
